@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://invpooq.github.io/sitemap.xml 
